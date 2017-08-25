@@ -21,3 +21,6 @@ print("How about some more")
 print("Is it greater?", 5.0 > -2.0)
 print("Is it greater or equal?", 5.0 >= -2.0)
 print("Is it less or equal?", 5.0 <= -2.0)
+
+# 5    -> integer
+# 5.0  -> float
